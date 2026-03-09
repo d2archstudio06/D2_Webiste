@@ -21,12 +21,12 @@ const ProjectCommonLayout = ({
       : galleryImages.filter((img) => img.category === galleryTab);
 
   // Brochure download
-  const handleDownload = () => {
-    const link = document.createElement("a");
-    link.href = brochureFile;
-    link.download = `${title}-Brochure.pdf`;
-    link.click();
-  };
+  // const handleDownload = () => {
+  //   const link = document.createElement("a");
+  //   link.href = brochureFile;
+  //   link.download = `${title}-Brochure.pdf`;
+  //   link.click();
+  // };
 
   // Switch back to "All"
   const handleShowAllProjects = () => {
@@ -139,7 +139,7 @@ const ProjectCommonLayout = ({
                 </p>
               ))}
 
-              {brochureText && (
+              {/* {brochureText && (
                 <div className="mt-6 flex justify-center">
                   <button
                     onClick={handleDownload}
@@ -148,7 +148,7 @@ const ProjectCommonLayout = ({
                     {brochureText}
                   </button>
                 </div>
-              )}
+              )} */}
 
             </div>
           </section>
