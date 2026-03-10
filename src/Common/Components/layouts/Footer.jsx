@@ -113,7 +113,7 @@ const Footer = ({ onOpenContact }) => {
               <a href="#" aria-label="X (Twitter)">
                 <PiXLogoBold className="hover:text-gray-400 transition-colors" />
               </a>
-              <a href="#" aria-label="Facebook">
+              <a href="https://www.facebook.com/share/1dCt6TFoV8/" aria-label="Facebook">
                 <FaFacebookF className="hover:text-gray-400 transition-colors" />
               </a>
               <a href="https://www.youtube.com/@d2architecturestudio797" target="_blank" rel="noopener noreferrer">
