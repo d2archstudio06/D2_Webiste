@@ -40,6 +40,7 @@ import img35 from "../../../assets/HospitalityProjects/Edelwiss/Exterior/Exterio
 import img36 from "../../../assets/HospitalityProjects/Elaris/Exterior/Exterior1.png";
 import img37 from "../../../assets/HospitalityProjects/Prithvi/Exterior/Exterior1.png";
 import img38 from "../../../assets/Public Projects/Thanalidam/Exterior1.jpeg";
+import img39 from "../../../assets/Commercial/Xybera/Interior/Interior1.jpeg";
 
 const Portfolio = () => {
   const [activeTab, setActiveTab] = useState("ALL");
@@ -58,7 +59,7 @@ const images = [
   },
   {
     src: img2,
-    title: "Ema Residence",
+    title: "Ema ",
     description: "Elegant contemporary home designed with refined spatial planning.",
     category: "RESIDENTIAL",
     link: "/main/Ema",
@@ -79,14 +80,14 @@ const images = [
   },
   {
     src: img5,
-    title: "Inea Residence",
+    title: "Inea ",
     description: "Eco-conscious hillside residence designed with sustainable materials.",
     category: "RESIDENTIAL",
     link: "/main/Inea",
   },
   {
     src: img6,
-    title: "Sirena Residence",
+    title: "Sirena ",
     description: "Commercial space designed with modern aesthetics and functionality.",
     category: "COMMERCIAL",
     link: "/main/Sirena",
@@ -170,7 +171,7 @@ const images = [
   },
   {
     src: img18,
-    title: "NobleResidence",
+    title: "Noble Residence",
     description: "Sophisticated contemporary home designed for luxury living.",
     category: "RESIDENTIAL",
     link: "/main/NobleResidence",
@@ -191,7 +192,7 @@ const images = [
   },
   {
     src: img21,
-    title: "Vipin Thomas",
+    title: "Dhalia",
     description: "Contemporary residence focused on comfort and elegant living.",
     category: "RESIDENTIAL",
     link: "/main/VipinThomas",
@@ -212,7 +213,7 @@ const images = [
   },
   {
     src: img24,
-    title: "Amancay",
+    title: "Casa Amancay",
     description: "Commercial building designed for premium business environments.",
     category: "RESIDENTIAL",
     link: "/main/Amancay",
@@ -274,7 +275,7 @@ const images = [
     link: "/main/UrbanChic",
   },
   {
-    src: img32,
+    src: img39,
     title: "XYBERA ",
     description: "Modern commercial space designed for functionality and professional work environments.",
     category: "COMMERCIAL",
