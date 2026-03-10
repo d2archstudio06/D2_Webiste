@@ -76,7 +76,7 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6 lg:px-10 py-3.5">
 
           {/* LOGO */}
-          <Link to="/main" className="flex items-center">
+          <Link to="/" className="flex items-center">
             <img
               src={logo}
               alt="D2 Studio Logo"
