@@ -7,7 +7,7 @@ const Service1 = () => {
   return (
     <ServiceLayout
       number="01"
-      title="Urban Design"
+      title="Master plannings and Urban design"
       mainDescription="We offer innovative and context-sensitive architectural design services that blend aesthetics, functionality, and sustainability."
       detailedDescription="Focused on urban design, we integrate flexible layouts and responsive planning to shape vibrant, livable spaces — balancing function, flow, and aesthetic continuity through thoughtful elements, layered transitions, and adaptable environments."
       image1={uimg1}
