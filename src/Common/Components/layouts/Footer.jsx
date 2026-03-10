@@ -47,7 +47,7 @@ const Footer = ({ onOpenContact }) => {
 
             <div className="flex items-start justify-center sm:justify-start gap-2">
               <FiMail className="mt-[3px]" />
-              <a href="mailto:d2architecture@gmail.com" className="hover:underline text-gray-300">
+              <a href="mailto:d2archstudio06@gmail.com" className="hover:underline text-gray-300">
                 d2architecture@gmail.com
               </a>
             </div>
