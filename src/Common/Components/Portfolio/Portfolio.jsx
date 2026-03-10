@@ -89,12 +89,12 @@ const images = [
     src: img6,
     title: "Sirena ",
     description: "Commercial space designed with modern aesthetics and functionality.",
-    category: "COMMERCIAL",
+    category: "RESIDENTIAL",
     link: "/main/Sirena",
   },
   {
     src: img7,
-    title: "Yaraa House",
+    title: "Yaraa",
     description: "Contemporary home combining traditional layout with modern materials.",
     category: "RESIDENTIAL",
     link: "/main/Yaraa",
@@ -157,7 +157,7 @@ const images = [
   },
   {
     src: img16,
-    title: "Kotagiri",
+    title: "The English Cottages",
     description: "Terraced architectural residence designed for scenic hill environments.",
     category: "HOSPITALITY",
     link: "/main/Kottagiri",

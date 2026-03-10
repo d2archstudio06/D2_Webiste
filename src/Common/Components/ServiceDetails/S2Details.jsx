@@ -3,12 +3,12 @@ import DetailCommonLayout from "../../../Common/Components/ServiceDetails/Detail
 
 // ✅ Import all images properly
 import heroImage from "../../../assets/Images/Designs/Architecture/a6.jpg";
-import g1 from "../../../assets/Images/Designs/Architecture/a1.jpg";
-import g2 from "../../../assets/Images/Designs/Architecture/a2.jpg";
-import g3 from "../../../assets/Images/Designs/Architecture/a3.jpg";
-import g4 from "../../../assets/Images/Designs/Architecture/a4.jpg";
-import g5 from "../../../assets/Images/Designs/Architecture/f10.jpg";
-import g6 from "../../../assets/Images/Designs/Architecture/a6.jpg";
+import g1 from "../../../assets/HospitalityProjects/Arancia/Exterior/Exterior1.png";
+import g2 from "../../../assets/HospitalityProjects/Prithvi/Exterior/Exterior4.png";
+import g3 from "../../../assets/HospitalityProjects/Edelwiss/Exterior/Exterior3.png";
+import g4 from "../../../assets/Commercial/Rayo Martin/Exterior3.jpeg";
+import g5 from "../../../assets/Residential/vannagha/exterior/Exterior3.png";
+import g6 from "../../../assets/HospitalityProjects/Bhadram/Exterior/f1.jpg";
 
 
 const galleryImages = [g1, g2, g3, g4, g5, g6];
