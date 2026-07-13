@@ -5,18 +5,20 @@ import Portfolio from "../../../Common/Components/Portfolio/Portfolio";
 import TeamD2 from "../../../Common/Components/Team/TeamD2";
 import Service1 from "../../../Common/Components/CommonLayouts/Services/Service1";
 import TestimonialsModern from "../../Testimonial/Testimonial";
+import g2 from "../../../assets/Images/Designs/Urban/g2.png";
+import g3 from "../../../assets/Images/Designs/Urban/g3.png";
+import g4 from "../../../assets/Images/Designs/Urban/g4.png";
+import g5 from "../../../assets/Images/Designs/Urban/g5.png";
 
 const ArchitectureSlider = () => {
   const [current, setCurrent] = useState(0);
 
-  const images = [
-    "/images/slide.jpeg",
-    "/images/slide1.jpeg",
-    "/images/slide2.jpeg",
-    "/images/slide3.jpeg",
-    "/images/slide4.jpeg",
-
-  ];
+const images = [
+  g2,
+  g3,
+  g4,
+  g5,
+];
 
   useEffect(() => {
     const interval = setInterval(() => {
